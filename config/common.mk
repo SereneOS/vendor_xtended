@@ -167,13 +167,7 @@ PRODUCT_PACKAGES += \
 
 # MusicFX
 PRODUCT_PACKAGES += \
-    Recorder \
-    Eleven \
-    MusicFX
-
-# MsmPapers
-PRODUCT_PACKAGES += \
-    MsmPapers
+    Recorder
 
 # Extra Optional packages
 PRODUCT_PACKAGES += \
@@ -181,7 +175,9 @@ PRODUCT_PACKAGES += \
     BluetoothExt \
     OmniJaws \
     OmniStyle \
-    Lawnchair
+    Lawnchair \
+    AdAway \
+    MiXplorer
 
 # Lawnchair
 PRODUCT_COPY_FILES += \
